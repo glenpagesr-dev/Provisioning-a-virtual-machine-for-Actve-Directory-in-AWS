@@ -18,7 +18,6 @@ This guide walks through the process of launching a Windows-based EC2 instance u
 
 ## Step 2: Launch a New Instance
 
-![Launch EC2 Instance](images/step2-launch-instance.png)
 
 1. Click **Launch instance**.
 2.  Under **Application and OS Images (AMI)**, select a **Windows** operating system (such as *Microsoft Windows Server 2022 Base*).
@@ -35,7 +34,6 @@ This guide walks through the process of launching a Windows-based EC2 instance u
 
 ## Step 4: Configure a Key Pair
 
-![Configure Key Pair](images/step4-key-pair.png)
 
 1. In the **Key pair (login)** section, choose an existing key pair or create a new one.
 2. If creating a new key pair:
@@ -63,7 +61,6 @@ This guide walks through the process of launching a Windows-based EC2 instance u
 
 ## Next Steps: Connecting to the Instance
 
-![RDP Connection](images/step7-rdp-connection.png)
 
 - Decrypt the Windows administrator password using your key pair.
 - Connect using **Remote Desktop Protocol (RDP)** and the instance’s public IPv4 address.
