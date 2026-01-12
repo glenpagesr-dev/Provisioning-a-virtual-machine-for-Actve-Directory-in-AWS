@@ -1,3 +1,6 @@
+# Watch Me Build The Lab Here
+https://www.loom.com/share/5fc6613df973410d814bf1213bb397bc
+
 # virtual-machine
 A hands-on lab demonstrating the setup and configuration of a Virtual Machine  for Active Directory on AWS
 # Creating a Windows Virtual Machine / EC2 Instance on AWS
