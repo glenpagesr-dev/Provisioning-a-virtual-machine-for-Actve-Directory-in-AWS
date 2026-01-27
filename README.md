@@ -59,7 +59,7 @@ This guide walks through the process of launching a Windows-based EC2 instance u
 ---
 
 ## Next Steps: Connecting to the Instance
-
+![image alt](https://github.com/glenpagesr-dev/virtual-machine/blob/be3f9e649e6413a6e3588dc6f4ce24e3d535f339/VM%20Connect.png)
 
 - Decrypt the Windows administrator password using your key pair.
 - Connect using **Remote Desktop Protocol (RDP)** and the instance’s public IPv4 address.
