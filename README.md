@@ -44,7 +44,7 @@ This guide walks through the process of launching a Windows-based EC2 instance u
 ---
 
 ## Step 5: Review and Launch
-
+![image alt](https://github.com/glenpagesr-dev/virtual-machine/blob/871d18ec57c01f924a29fb3599eab8e652fdb2c6/VM%20Launch%20Instance.png)
 1. Leave the remaining settings at their default values unless specific networking, storage, or security configurations are required.
 2. Click **Launch instance** to begin provisioning.
 
